@@ -26,6 +26,7 @@ None
 * `asg_bastion_max_size`         : Bastion maximum number of instances
 
 ## Outputs
+
 * `bastion_dns`: AWS bastion ELB url
 * `sg_asg_bastion`: ID of the security group associated to the bastion
 * `iam_role_bastion`: Name of the IAM role associated to the bastion
